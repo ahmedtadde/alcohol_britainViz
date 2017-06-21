@@ -1,0 +1,17 @@
+"0","data <- fread('data.csv')"
+"0","glimpse(data)"
+"1","Observations: "
+"1","540"
+"1","
+"
+"1","Variables: "
+"1","5"
+"1","
+"
+"1","$ Year       <chr> ""2005"", ""2006"", ""2007"", ""2008"", ""2009"", ""2010"", ""2011"", ""2012"", ""2013"", ""2...
+$ Age Range  <chr> ""16 to 24"", ""16 to 24"", ""16 to 24"", ""16 to 24"", ""16 to 24"", ""16 to 24"", ""1...
+$ Gender     <chr> ""Men"", ""Men"", ""Men"", ""Men"", ""Men"", ""Men"", ""Men"", ""Men"", ""Men"", ""Men"", ""Men...
+$ Question   <chr> ""Drank alcohol in the last week"", ""Drank alcohol in the last week"", ""Drank...
+$ Proportion <chr> ""64.1%"", ""60.5%"", ""64.1%"", ""62.5%"", ""54.8%"", ""48.5%"", ""51.5%"", ""50.0%"", ""4..."
+"1","
+"

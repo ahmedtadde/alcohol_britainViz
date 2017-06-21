@@ -1,0 +1,541 @@
+Year,Age Range,Gender,Question,Proportion
+2005,16 to 24,Men,Drank alcohol in the last week,64.1%
+2006,16 to 24,Men,Drank alcohol in the last week,60.5%
+2007,16 to 24,Men,Drank alcohol in the last week,64.1%
+2008,16 to 24,Men,Drank alcohol in the last week,62.5%
+2009,16 to 24,Men,Drank alcohol in the last week,54.8%
+2010,16 to 24,Men,Drank alcohol in the last week,48.5%
+2011,16 to 24,Men,Drank alcohol in the last week,51.5%
+2012,16 to 24,Men,Drank alcohol in the last week,50.0%
+2013,16 to 24,Men,Drank alcohol in the last week,49.2%
+2014,16 to 24,Men,Drank alcohol in the last week,51.9%
+2015,16 to 24,Men,Drank alcohol in the last week,53.9%
+2016,16 to 24,Men,Drank alcohol in the last week,47.0%
+"2,005",16 to 24,Women,Drank alcohol in the last week,56.2%
+"2,006",16 to 24,Women,Drank alcohol in the last week,52.8%
+"2,007",16 to 24,Women,Drank alcohol in the last week,54.1%
+"2,008",16 to 24,Women,Drank alcohol in the last week,52.2%
+"2,009",16 to 24,Women,Drank alcohol in the last week,50.5%
+"2,010",16 to 24,Women,Drank alcohol in the last week,46.1%
+"2,011",16 to 24,Women,Drank alcohol in the last week,49.5%
+"2,012",16 to 24,Women,Drank alcohol in the last week,48.3%
+"2,013",16 to 24,Women,Drank alcohol in the last week,43.2%
+"2,014",16 to 24,Women,Drank alcohol in the last week,43.4%
+"2,015",16 to 24,Women,Drank alcohol in the last week,47.4%
+"2,016",16 to 24,Women,Drank alcohol in the last week,44.8%
+"2,005",16 to 24,All persons,Drank alcohol in the last week,60.0%
+"2,006",16 to 24,All persons,Drank alcohol in the last week,56.4%
+"2,007",16 to 24,All persons,Drank alcohol in the last week,59.0%
+"2,008",16 to 24,All persons,Drank alcohol in the last week,57.1%
+"2,009",16 to 24,All persons,Drank alcohol in the last week,52.6%
+"2,010",16 to 24,All persons,Drank alcohol in the last week,47.3%
+"2,011",16 to 24,All persons,Drank alcohol in the last week,50.5%
+"2,012",16 to 24,All persons,Drank alcohol in the last week,49.2%
+"2,013",16 to 24,All persons,Drank alcohol in the last week,46.3%
+"2,014",16 to 24,All persons,Drank alcohol in the last week,47.7%
+"2,015",16 to 24,All persons,Drank alcohol in the last week,50.7%
+"2,016",16 to 24,All persons,Drank alcohol in the last week,46.0%
+2005,25 to 44,Men,Drank alcohol in the last week,74.4%
+2006,25 to 44,Men,Drank alcohol in the last week,73.3%
+2007,25 to 44,Men,Drank alcohol in the last week,74.2%
+2008,25 to 44,Men,Drank alcohol in the last week,72.0%
+2009,25 to 44,Men,Drank alcohol in the last week,70.3%
+2010,25 to 44,Men,Drank alcohol in the last week,69.1%
+2011,25 to 44,Men,Drank alcohol in the last week,66.7%
+2012,25 to 44,Men,Drank alcohol in the last week,63.4%
+2013,25 to 44,Men,Drank alcohol in the last week,62.7%
+2014,25 to 44,Men,Drank alcohol in the last week,61.7%
+2015,25 to 44,Men,Drank alcohol in the last week,62.8%
+2016,25 to 44,Men,Drank alcohol in the last week,62.0%
+2005,25 to 44,Women,Drank alcohol in the last week,61.8%
+2006,25 to 44,Women,Drank alcohol in the last week,60.0%
+2007,25 to 44,Women,Drank alcohol in the last week,61.3%
+2008,25 to 44,Women,Drank alcohol in the last week,58.7%
+2009,25 to 44,Women,Drank alcohol in the last week,58.7%
+2010,25 to 44,Women,Drank alcohol in the last week,56.5%
+2011,25 to 44,Women,Drank alcohol in the last week,56.0%
+2012,25 to 44,Women,Drank alcohol in the last week,50.4%
+2013,25 to 44,Women,Drank alcohol in the last week,52.3%
+2014,25 to 44,Women,Drank alcohol in the last week,50.7%
+2015,25 to 44,Women,Drank alcohol in the last week,51.9%
+2016,25 to 44,Women,Drank alcohol in the last week,50.0%
+2005,25 to 44,All persons,Drank alcohol in the last week,67.7%
+2006,25 to 44,All persons,Drank alcohol in the last week,66.3%
+2007,25 to 44,All persons,Drank alcohol in the last week,67.4%
+2008,25 to 44,All persons,Drank alcohol in the last week,64.9%
+2009,25 to 44,All persons,Drank alcohol in the last week,64.1%
+2010,25 to 44,All persons,Drank alcohol in the last week,62.5%
+2011,25 to 44,All persons,Drank alcohol in the last week,61.1%
+2012,25 to 44,All persons,Drank alcohol in the last week,57.0%
+2013,25 to 44,All persons,Drank alcohol in the last week,57.5%
+2014,25 to 44,All persons,Drank alcohol in the last week,56.2%
+2015,25 to 44,All persons,Drank alcohol in the last week,57.3%
+2016,25 to 44,All persons,Drank alcohol in the last week,56.0%
+2005,45 to 64,Men,Drank alcohol in the last week,76.9%
+2006,45 to 64,Men,Drank alcohol in the last week,76.0%
+2007,45 to 64,Men,Drank alcohol in the last week,76.1%
+2008,45 to 64,Men,Drank alcohol in the last week,74.2%
+2009,45 to 64,Men,Drank alcohol in the last week,72.0%
+2010,45 to 64,Men,Drank alcohol in the last week,73.1%
+2011,45 to 64,Men,Drank alcohol in the last week,72.4%
+2012,45 to 64,Men,Drank alcohol in the last week,70.8%
+2013,45 to 64,Men,Drank alcohol in the last week,71.2%
+2014,45 to 64,Men,Drank alcohol in the last week,71.3%
+2015,45 to 64,Men,Drank alcohol in the last week,72.0%
+2016,45 to 64,Men,Drank alcohol in the last week,68.6%
+2005,45 to 64,Women,Drank alcohol in the last week,61.3%
+2006,45 to 64,Women,Drank alcohol in the last week,60.5%
+2007,45 to 64,Women,Drank alcohol in the last week,61.2%
+2008,45 to 64,Women,Drank alcohol in the last week,60.1%
+2009,45 to 64,Women,Drank alcohol in the last week,59.2%
+2010,45 to 64,Women,Drank alcohol in the last week,60.2%
+2011,45 to 64,Women,Drank alcohol in the last week,60.3%
+2012,45 to 64,Women,Drank alcohol in the last week,58.8%
+2013,45 to 64,Women,Drank alcohol in the last week,58.5%
+2014,45 to 64,Women,Drank alcohol in the last week,60.1%
+2015,45 to 64,Women,Drank alcohol in the last week,58.9%
+2016,45 to 64,Women,Drank alcohol in the last week,59.9%
+2005,45 to 64,All persons,Drank alcohol in the last week,68.8%
+2006,45 to 64,All persons,Drank alcohol in the last week,67.8%
+2007,45 to 64,All persons,Drank alcohol in the last week,68.3%
+2008,45 to 64,All persons,Drank alcohol in the last week,66.8%
+2009,45 to 64,All persons,Drank alcohol in the last week,65.3%
+2010,45 to 64,All persons,Drank alcohol in the last week,66.4%
+2011,45 to 64,All persons,Drank alcohol in the last week,66.1%
+2012,45 to 64,All persons,Drank alcohol in the last week,64.7%
+2013,45 to 64,All persons,Drank alcohol in the last week,64.7%
+2014,45 to 64,All persons,Drank alcohol in the last week,65.6%
+2015,45 to 64,All persons,Drank alcohol in the last week,65.3%
+2016,45 to 64,All persons,Drank alcohol in the last week,64.2%
+2005,65+,Men,Drank alcohol in the last week,66.5%
+2006,65+,Men,Drank alcohol in the last week,67.1%
+2007,65+,Men,Drank alcohol in the last week,67.3%
+2008,65+,Men,Drank alcohol in the last week,65.6%
+2009,65+,Men,Drank alcohol in the last week,65.7%
+2010,65+,Men,Drank alcohol in the last week,65.4%
+2011,65+,Men,Drank alcohol in the last week,62.9%
+2012,65+,Men,Drank alcohol in the last week,63.5%
+2013,65+,Men,Drank alcohol in the last week,65.4%
+2014,65+,Men,Drank alcohol in the last week,64.0%
+2015,65+,Men,Drank alcohol in the last week,67.0%
+2016,65+,Men,Drank alcohol in the last week,65.9%
+2005,65+,Women,Drank alcohol in the last week,43.4%
+2006,65+,Women,Drank alcohol in the last week,44.5%
+2007,65+,Women,Drank alcohol in the last week,44.9%
+2008,65+,Women,Drank alcohol in the last week,43.2%
+2009,65+,Women,Drank alcohol in the last week,42.6%
+2010,65+,Women,Drank alcohol in the last week,43.2%
+2011,65+,Women,Drank alcohol in the last week,42.2%
+2012,65+,Women,Drank alcohol in the last week,44.6%
+2013,65+,Women,Drank alcohol in the last week,47.4%
+2014,65+,Women,Drank alcohol in the last week,50.4%
+2015,65+,Women,Drank alcohol in the last week,48.8%
+2016,65+,Women,Drank alcohol in the last week,44.8%
+2005,65+,All persons,Drank alcohol in the last week,53.5%
+2006,65+,All persons,Drank alcohol in the last week,54.4%
+2007,65+,All persons,Drank alcohol in the last week,54.8%
+2008,65+,All persons,Drank alcohol in the last week,53.2%
+2009,65+,All persons,Drank alcohol in the last week,52.9%
+2010,65+,All persons,Drank alcohol in the last week,53.2%
+2011,65+,All persons,Drank alcohol in the last week,51.5%
+2012,65+,All persons,Drank alcohol in the last week,53.2%
+2013,65+,All persons,Drank alcohol in the last week,55.6%
+2014,65+,All persons,Drank alcohol in the last week,56.7%
+2015,65+,All persons,Drank alcohol in the last week,57.1%
+2016,65+,All persons,Drank alcohol in the last week,54.5%
+2005,All 16+,Men,Drank alcohol in the last week,72.4%
+2006,All 16+,Men,Drank alcohol in the last week,71.3%
+2007,All 16+,Men,Drank alcohol in the last week,72.2%
+2008,All 16+,Men,Drank alcohol in the last week,70.3%
+2009,All 16+,Men,Drank alcohol in the last week,68.1%
+2010,All 16+,Men,Drank alcohol in the last week,67.2%
+2011,All 16+,Men,Drank alcohol in the last week,66.1%
+2012,All 16+,Men,Drank alcohol in the last week,63.8%
+2013,All 16+,Men,Drank alcohol in the last week,64.0%
+2014,All 16+,Men,Drank alcohol in the last week,63.8%
+2015,All 16+,Men,Drank alcohol in the last week,65.3%
+2016,All 16+,Men,Drank alcohol in the last week,62.8%
+2005,All 16+,Women,Drank alcohol in the last week,57.0%
+2006,All 16+,Women,Drank alcohol in the last week,55.9%
+2007,All 16+,Women,Drank alcohol in the last week,56.9%
+2008,All 16+,Women,Drank alcohol in the last week,54.9%
+2009,All 16+,Women,Drank alcohol in the last week,54.3%
+2010,All 16+,Women,Drank alcohol in the last week,53.5%
+2011,All 16+,Women,Drank alcohol in the last week,53.5%
+2012,All 16+,Women,Drank alcohol in the last week,51.5%
+2013,All 16+,Women,Drank alcohol in the last week,52.0%
+2014,All 16+,Women,Drank alcohol in the last week,52.7%
+2015,All 16+,Women,Drank alcohol in the last week,52.8%
+2016,All 16+,Women,Drank alcohol in the last week,51.3%
+2005,All 16+,All persons,Drank alcohol in the last week,64.2%
+2006,All 16+,All persons,Drank alcohol in the last week,63.1%
+2007,All 16+,All persons,Drank alcohol in the last week,64.1%
+2008,All 16+,All persons,Drank alcohol in the last week,62.1%
+2009,All 16+,All persons,Drank alcohol in the last week,60.7%
+2010,All 16+,All persons,Drank alcohol in the last week,59.9%
+2011,All 16+,All persons,Drank alcohol in the last week,59.4%
+2012,All 16+,All persons,Drank alcohol in the last week,57.5%
+2013,All 16+,All persons,Drank alcohol in the last week,57.9%
+2014,All 16+,All persons,Drank alcohol in the last week,58.1%
+2015,All 16+,All persons,Drank alcohol in the last week,58.9%
+2016,All 16+,All persons,Drank alcohol in the last week,56.9%
+"2,005",16 to 24,Men,Drank alcohol on five on more days in the last week,9.5%
+"2,006",16 to 24,Men,Drank alcohol on five on more days in the last week,8.2%
+"2,007",16 to 24,Men,Drank alcohol on five on more days in the last week,8.9%
+"2,008",16 to 24,Men,Drank alcohol on five on more days in the last week,6.3%
+"2,009",16 to 24,Men,Drank alcohol on five on more days in the last week,6.7%
+"2,010",16 to 24,Men,Drank alcohol on five on more days in the last week,5.1%
+"2,011",16 to 24,Men,Drank alcohol on five on more days in the last week,4.5%
+"2,012",16 to 24,Men,Drank alcohol on five on more days in the last week,4.6%
+"2,013",16 to 24,Men,Drank alcohol on five on more days in the last week,2.0%
+"2,014",16 to 24,Men,Drank alcohol on five on more days in the last week,4.0%
+"2,015",16 to 24,Men,Drank alcohol on five on more days in the last week,4.0%
+"2,016",16 to 24,Men,Drank alcohol on five on more days in the last week,2.8%
+"2,005",16 to 24,Women,Drank alcohol on five on more days in the last week,4.8%
+2006,16 to 24,Women,Drank alcohol on five on more days in the last week,3.2%
+2007,16 to 24,Women,Drank alcohol on five on more days in the last week,3.8%
+2008,16 to 24,Women,Drank alcohol on five on more days in the last week,2.2%
+2009,16 to 24,Women,Drank alcohol on five on more days in the last week,2.2%
+2010,16 to 24,Women,Drank alcohol on five on more days in the last week,2.3%
+2011,16 to 24,Women,Drank alcohol on five on more days in the last week,3.4%
+2012,16 to 24,Women,Drank alcohol on five on more days in the last week,2.3%
+2013,16 to 24,Women,Drank alcohol on five on more days in the last week,2.2%
+2014,16 to 24,Women,Drank alcohol on five on more days in the last week,1.5%
+2015,16 to 24,Women,Drank alcohol on five on more days in the last week,2.9%
+2016,16 to 24,Women,Drank alcohol on five on more days in the last week,1.3%
+2005,16 to 24,All persons,Drank alcohol on five on more days in the last week,7.1%
+2006,16 to 24,All persons,Drank alcohol on five on more days in the last week,5.6%
+2007,16 to 24,All persons,Drank alcohol on five on more days in the last week,6.3%
+2008,16 to 24,All persons,Drank alcohol on five on more days in the last week,4.1%
+2009,16 to 24,All persons,Drank alcohol on five on more days in the last week,4.3%
+2010,16 to 24,All persons,Drank alcohol on five on more days in the last week,3.6%
+2011,16 to 24,All persons,Drank alcohol on five on more days in the last week,3.9%
+2012,16 to 24,All persons,Drank alcohol on five on more days in the last week,3.5%
+2013,16 to 24,All persons,Drank alcohol on five on more days in the last week,2.1%
+2014,16 to 24,All persons,Drank alcohol on five on more days in the last week,2.7%
+2015,16 to 24,All persons,Drank alcohol on five on more days in the last week,3.5%
+2016,16 to 24,All persons,Drank alcohol on five on more days in the last week,2.1%
+2005,25 to 44,Men,Drank alcohol on five on more days in the last week,17.8%
+2006,25 to 44,Men,Drank alcohol on five on more days in the last week,16.8%
+2007,25 to 44,Men,Drank alcohol on five on more days in the last week,18.3%
+2008,25 to 44,Men,Drank alcohol on five on more days in the last week,13.9%
+2009,25 to 44,Men,Drank alcohol on five on more days in the last week,13.2%
+2010,25 to 44,Men,Drank alcohol on five on more days in the last week,11.9%
+2011,25 to 44,Men,Drank alcohol on five on more days in the last week,10.6%
+2012,25 to 44,Men,Drank alcohol on five on more days in the last week,9.5%
+2013,25 to 44,Men,Drank alcohol on five on more days in the last week,8.1%
+2014,25 to 44,Men,Drank alcohol on five on more days in the last week,8.1%
+2015,25 to 44,Men,Drank alcohol on five on more days in the last week,8.2%
+2016,25 to 44,Men,Drank alcohol on five on more days in the last week,6.6%
+2005,25 to 44,Women,Drank alcohol on five on more days in the last week,10.5%
+2006,25 to 44,Women,Drank alcohol on five on more days in the last week,9.2%
+2007,25 to 44,Women,Drank alcohol on five on more days in the last week,11.1%
+2008,25 to 44,Women,Drank alcohol on five on more days in the last week,8.7%
+2009,25 to 44,Women,Drank alcohol on five on more days in the last week,7.4%
+2010,25 to 44,Women,Drank alcohol on five on more days in the last week,6.5%
+2011,25 to 44,Women,Drank alcohol on five on more days in the last week,5.9%
+2012,25 to 44,Women,Drank alcohol on five on more days in the last week,4.9%
+2013,25 to 44,Women,Drank alcohol on five on more days in the last week,4.8%
+2014,25 to 44,Women,Drank alcohol on five on more days in the last week,4.2%
+2015,25 to 44,Women,Drank alcohol on five on more days in the last week,4.5%
+2016,25 to 44,Women,Drank alcohol on five on more days in the last week,3.4%
+2005,25 to 44,All persons,Drank alcohol on five on more days in the last week,13.9%
+2006,25 to 44,All persons,Drank alcohol on five on more days in the last week,12.8%
+2007,25 to 44,All persons,Drank alcohol on five on more days in the last week,14.5%
+2008,25 to 44,All persons,Drank alcohol on five on more days in the last week,11.1%
+2009,25 to 44,All persons,Drank alcohol on five on more days in the last week,10.1%
+2010,25 to 44,All persons,Drank alcohol on five on more days in the last week,9.1%
+2011,25 to 44,All persons,Drank alcohol on five on more days in the last week,8.1%
+2012,25 to 44,All persons,Drank alcohol on five on more days in the last week,7.2%
+2013,25 to 44,All persons,Drank alcohol on five on more days in the last week,6.5%
+2014,25 to 44,All persons,Drank alcohol on five on more days in the last week,6.2%
+2015,25 to 44,All persons,Drank alcohol on five on more days in the last week,6.3%
+2016,25 to 44,All persons,Drank alcohol on five on more days in the last week,5.0%
+2005,45 to 64,Men,Drank alcohol on five on more days in the last week,27.5%
+2006,45 to 64,Men,Drank alcohol on five on more days in the last week,25.9%
+2007,45 to 64,Men,Drank alcohol on five on more days in the last week,26.6%
+2008,45 to 64,Men,Drank alcohol on five on more days in the last week,24.0%
+2009,45 to 64,Men,Drank alcohol on five on more days in the last week,22.6%
+2010,45 to 64,Men,Drank alcohol on five on more days in the last week,20.1%
+2011,45 to 64,Men,Drank alcohol on five on more days in the last week,21.5%
+2012,45 to 64,Men,Drank alcohol on five on more days in the last week,17.6%
+2013,45 to 64,Men,Drank alcohol on five on more days in the last week,17.4%
+2014,45 to 64,Men,Drank alcohol on five on more days in the last week,19.6%
+2015,45 to 64,Men,Drank alcohol on five on more days in the last week,18.3%
+2016,45 to 64,Men,Drank alcohol on five on more days in the last week,14.5%
+2005,45 to 64,Women,Drank alcohol on five on more days in the last week,17.1%
+2006,45 to 64,Women,Drank alcohol on five on more days in the last week,14.9%
+2007,45 to 64,Women,Drank alcohol on five on more days in the last week,15.1%
+2008,45 to 64,Women,Drank alcohol on five on more days in the last week,15.4%
+2009,45 to 64,Women,Drank alcohol on five on more days in the last week,13.6%
+2010,45 to 64,Women,Drank alcohol on five on more days in the last week,13.1%
+2011,45 to 64,Women,Drank alcohol on five on more days in the last week,12.4%
+2012,45 to 64,Women,Drank alcohol on five on more days in the last week,11.3%
+2013,45 to 64,Women,Drank alcohol on five on more days in the last week,10.0%
+2014,45 to 64,Women,Drank alcohol on five on more days in the last week,10.3%
+2015,45 to 64,Women,Drank alcohol on five on more days in the last week,12.0%
+2016,45 to 64,Women,Drank alcohol on five on more days in the last week,9.4%
+2005,45 to 64,All persons,Drank alcohol on five on more days in the last week,22.1%
+2006,45 to 64,All persons,Drank alcohol on five on more days in the last week,20.1%
+2007,45 to 64,All persons,Drank alcohol on five on more days in the last week,20.5%
+2008,45 to 64,All persons,Drank alcohol on five on more days in the last week,19.5%
+2009,45 to 64,All persons,Drank alcohol on five on more days in the last week,17.9%
+2010,45 to 64,All persons,Drank alcohol on five on more days in the last week,16.4%
+2011,45 to 64,All persons,Drank alcohol on five on more days in the last week,16.8%
+2012,45 to 64,All persons,Drank alcohol on five on more days in the last week,14.4%
+2013,45 to 64,All persons,Drank alcohol on five on more days in the last week,13.6%
+2014,45 to 64,All persons,Drank alcohol on five on more days in the last week,14.9%
+2015,45 to 64,All persons,Drank alcohol on five on more days in the last week,15.1%
+2016,45 to 64,All persons,Drank alcohol on five on more days in the last week,11.9%
+2005,65+,Men,Drank alcohol on five on more days in the last week,26.4%
+2006,65+,Men,Drank alcohol on five on more days in the last week,27.2%
+2007,65+,Men,Drank alcohol on five on more days in the last week,28.9%
+2008,65+,Men,Drank alcohol on five on more days in the last week,27.0%
+2009,65+,Men,Drank alcohol on five on more days in the last week,26.8%
+2010,65+,Men,Drank alcohol on five on more days in the last week,25.6%
+2011,65+,Men,Drank alcohol on five on more days in the last week,24.3%
+2012,65+,Men,Drank alcohol on five on more days in the last week,23.3%
+2013,65+,Men,Drank alcohol on five on more days in the last week,24.3%
+2014,65+,Men,Drank alcohol on five on more days in the last week,24.6%
+2015,65+,Men,Drank alcohol on five on more days in the last week,25.6%
+2016,65+,Men,Drank alcohol on five on more days in the last week,23.8%
+2005,65+,Women,Drank alcohol on five on more days in the last week,14.0%
+2006,65+,Women,Drank alcohol on five on more days in the last week,15.1%
+2007,65+,Women,Drank alcohol on five on more days in the last week,15.4%
+2008,65+,Women,Drank alcohol on five on more days in the last week,14.6%
+2009,65+,Women,Drank alcohol on five on more days in the last week,13.6%
+2010,65+,Women,Drank alcohol on five on more days in the last week,14.3%
+2011,65+,Women,Drank alcohol on five on more days in the last week,13.4%
+2012,65+,Women,Drank alcohol on five on more days in the last week,14.0%
+2013,65+,Women,Drank alcohol on five on more days in the last week,13.3%
+2014,65+,Women,Drank alcohol on five on more days in the last week,14.8%
+2015,65+,Women,Drank alcohol on five on more days in the last week,16.4%
+2016,65+,Women,Drank alcohol on five on more days in the last week,12.4%
+2005,65+,All persons,Drank alcohol on five on more days in the last week,19.4%
+2006,65+,All persons,Drank alcohol on five on more days in the last week,20.4%
+2007,65+,All persons,Drank alcohol on five on more days in the last week,21.3%
+2008,65+,All persons,Drank alcohol on five on more days in the last week,20.1%
+2009,65+,All persons,Drank alcohol on five on more days in the last week,19.5%
+2010,65+,All persons,Drank alcohol on five on more days in the last week,19.4%
+2011,65+,All persons,Drank alcohol on five on more days in the last week,18.3%
+2012,65+,All persons,Drank alcohol on five on more days in the last week,18.2%
+2013,65+,All persons,Drank alcohol on five on more days in the last week,18.3%
+2014,65+,All persons,Drank alcohol on five on more days in the last week,19.3%
+2015,65+,All persons,Drank alcohol on five on more days in the last week,20.7%
+2016,65+,All persons,Drank alcohol on five on more days in the last week,17.7%
+2005,All 16+,Men,Drank alcohol on five on more days in the last week,21.5%
+2006,All 16+,Men,Drank alcohol on five on more days in the last week,20.7%
+2007,All 16+,Men,Drank alcohol on five on more days in the last week,21.8%
+2008,All 16+,Men,Drank alcohol on five on more days in the last week,19.0%
+2009,All 16+,Men,Drank alcohol on five on more days in the last week,18.4%
+2010,All 16+,Men,Drank alcohol on five on more days in the last week,16.6%
+2011,All 16+,Men,Drank alcohol on five on more days in the last week,16.4%
+2012,All 16+,Men,Drank alcohol on five on more days in the last week,14.0%
+2013,All 16+,Men,Drank alcohol on five on more days in the last week,13.4%
+2014,All 16+,Men,Drank alcohol on five on more days in the last week,14.5%
+2015,All 16+,Men,Drank alcohol on five on more days in the last week,14.4%
+2016,All 16+,Men,Drank alcohol on five on more days in the last week,12.1%
+2005,All 16+,Women,Drank alcohol on five on more days in the last week,12.6%
+2006,All 16+,Women,Drank alcohol on five on more days in the last week,11.5%
+2007,All 16+,Women,Drank alcohol on five on more days in the last week,12.4%
+2008,All 16+,Women,Drank alcohol on five on more days in the last week,11.4%
+2009,All 16+,Women,Drank alcohol on five on more days in the last week,10.2%
+2010,All 16+,Women,Drank alcohol on five on more days in the last week,9.9%
+2011,All 16+,Women,Drank alcohol on five on more days in the last week,9.4%
+2012,All 16+,Women,Drank alcohol on five on more days in the last week,8.6%
+2013,All 16+,Women,Drank alcohol on five on more days in the last week,8.0%
+2014,All 16+,Women,Drank alcohol on five on more days in the last week,8.2%
+2015,All 16+,Women,Drank alcohol on five on more days in the last week,9.4%
+2016,All 16+,Women,Drank alcohol on five on more days in the last week,7.1%
+2005,All 16+,All persons,Drank alcohol on five on more days in the last week,16.8%
+2006,All 16+,All persons,Drank alcohol on five on more days in the last week,15.8%
+2007,All 16+,All persons,Drank alcohol on five on more days in the last week,16.8%
+2008,All 16+,All persons,Drank alcohol on five on more days in the last week,14.9%
+2009,All 16+,All persons,Drank alcohol on five on more days in the last week,14.0%
+2010,All 16+,All persons,Drank alcohol on five on more days in the last week,13.0%
+2011,All 16+,All persons,Drank alcohol on five on more days in the last week,12.7%
+2012,All 16+,All persons,Drank alcohol on five on more days in the last week,11.2%
+2013,All 16+,All persons,Drank alcohol on five on more days in the last week,10.6%
+2014,All 16+,All persons,Drank alcohol on five on more days in the last week,11.3%
+2015,All 16+,All persons,Drank alcohol on five on more days in the last week,11.8%
+2016,All 16+,All persons,Drank alcohol on five on more days in the last week,9.6%
+2005,16 to 24,Men,Teetotal,17.4%
+2006,16 to 24,Men,Teetotal,19.2%
+2007,16 to 24,Men,Teetotal,18.8%
+2008,16 to 24,Men,Teetotal,18.8%
+2009,16 to 24,Men,Teetotal,22.2%
+2010,16 to 24,Men,Teetotal,26.5%
+2011,16 to 24,Men,Teetotal,22.8%
+2012,16 to 24,Men,Teetotal,22.7%
+2013,16 to 24,Men,Teetotal,24.5%
+2014,16 to 24,Men,Teetotal,21.9%
+2015,16 to 24,Men,Teetotal,23.5%
+2016,16 to 24,Men,Teetotal,25.9%
+2005,25 to 44,Men,Teetotal,12.3%
+2006,25 to 44,Men,Teetotal,11.0%
+2007,25 to 44,Men,Teetotal,11.4%
+2008,25 to 44,Men,Teetotal,11.9%
+2009,25 to 44,Men,Teetotal,14.1%
+2010,25 to 44,Men,Teetotal,14.6%
+2011,25 to 44,Men,Teetotal,14.9%
+2012,25 to 44,Men,Teetotal,17.8%
+2013,25 to 44,Men,Teetotal,16.4%
+2014,25 to 44,Men,Teetotal,19.4%
+2015,25 to 44,Men,Teetotal,18.8%
+2016,25 to 44,Men,Teetotal,17.1%
+2005,45 to 64,Men,Teetotal,10.9%
+2006,45 to 64,Men,Teetotal,10.9%
+2007,45 to 64,Men,Teetotal,12.1%
+2008,45 to 64,Men,Teetotal,13.5%
+2009,45 to 64,Men,Teetotal,14.7%
+2010,45 to 64,Men,Teetotal,13.3%
+2011,45 to 64,Men,Teetotal,12.3%
+2012,45 to 64,Men,Teetotal,15.6%
+2013,45 to 64,Men,Teetotal,15.0%
+2014,45 to 64,Men,Teetotal,10.8%
+2015,45 to 64,Men,Teetotal,13.9%
+2016,45 to 64,Men,Teetotal,14.4%
+2005,65+,Men,Teetotal,19.3%
+2006,65+,Men,Teetotal,17.0%
+2007,65+,Men,Teetotal,17.7%
+2008,65+,Men,Teetotal,19.6%
+2009,65+,Men,Teetotal,20.1%
+2010,65+,Men,Teetotal,20.5%
+2011,65+,Men,Teetotal,20.9%
+2012,65+,Men,Teetotal,21.3%
+2013,65+,Men,Teetotal,21.0%
+2014,65+,Men,Teetotal,20.0%
+2015,65+,Men,Teetotal,18.4%
+2016,65+,Men,Teetotal,15.9%
+2005,All 16+,Men,Teetotal,13.9%
+2006,All 16+,Men,Teetotal,13.2%
+2007,All 16+,Men,Teetotal,13.8%
+2008,All 16+,Men,Teetotal,14.8%
+2009,All 16+,Men,Teetotal,16.5%
+2010,All 16+,Men,Teetotal,16.8%
+2011,All 16+,Men,Teetotal,16.2%
+2012,All 16+,Men,Teetotal,18.5%
+2013,All 16+,Men,Teetotal,18.0%
+2014,All 16+,Men,Teetotal,17.1%
+2015,All 16+,Men,Teetotal,17.8%
+2016,All 16+,Men,Teetotal,17.3%
+2005,16 to 24,Women,Teetotal,20.4%
+2006,16 to 24,Women,Teetotal,22.2%
+2007,16 to 24,Women,Teetotal,23.2%
+2008,16 to 24,Women,Teetotal,22.7%
+2009,16 to 24,Women,Teetotal,24.0%
+2010,16 to 24,Women,Teetotal,27.4%
+2011,16 to 24,Women,Teetotal,22.4%
+2012,16 to 24,Women,Teetotal,25.4%
+2013,16 to 24,Women,Teetotal,29.7%
+2014,16 to 24,Women,Teetotal,27.7%
+2015,16 to 24,Women,Teetotal,29.7%
+2016,16 to 24,Women,Teetotal,27.7%
+2005,25 to 44,Women,Teetotal,18.2%
+2006,25 to 44,Women,Teetotal,19.1%
+2007,25 to 44,Women,Teetotal,18.9%
+2008,25 to 44,Women,Teetotal,20.4%
+2009,25 to 44,Women,Teetotal,20.2%
+2010,25 to 44,Women,Teetotal,22.1%
+2011,25 to 44,Women,Teetotal,21.1%
+2012,25 to 44,Women,Teetotal,24.9%
+2013,25 to 44,Women,Teetotal,23.8%
+2014,25 to 44,Women,Teetotal,25.0%
+2015,25 to 44,Women,Teetotal,24.4%
+2016,25 to 44,Women,Teetotal,23.1%
+2005,45 to 64,Women,Teetotal,19.8%
+2006,45 to 64,Women,Teetotal,20.4%
+2007,45 to 64,Women,Teetotal,21.4%
+2008,45 to 64,Women,Teetotal,20.2%
+2009,45 to 64,Women,Teetotal,21.2%
+2010,45 to 64,Women,Teetotal,20.2%
+2011,45 to 64,Women,Teetotal,19.8%
+2012,45 to 64,Women,Teetotal,21.9%
+2013,45 to 64,Women,Teetotal,18.3%
+2014,45 to 64,Women,Teetotal,17.7%
+2015,45 to 64,Women,Teetotal,20.4%
+2016,45 to 64,Women,Teetotal,18.0%
+2005,65+,Women,Teetotal,37.2%
+2006,65+,Women,Teetotal,35.6%
+2007,65+,Women,Teetotal,35.1%
+2008,65+,Women,Teetotal,37.9%
+2009,65+,Women,Teetotal,37.6%
+2010,65+,Women,Teetotal,36.9%
+2011,65+,Women,Teetotal,37.9%
+2012,65+,Women,Teetotal,35.2%
+2013,65+,Women,Teetotal,31.4%
+2014,65+,Women,Teetotal,30.1%
+2015,65+,Women,Teetotal,29.5%
+2016,65+,Women,Teetotal,32.9%
+2005,All 16+,Women,Teetotal,23.1%
+2006,All 16+,Women,Teetotal,23.5%
+2007,All 16+,Women,Teetotal,23.7%
+2008,All 16+,Women,Teetotal,24.5%
+2009,All 16+,Women,Teetotal,24.9%
+2010,All 16+,Women,Teetotal,25.4%
+2011,All 16+,Women,Teetotal,24.7%
+2012,All 16+,Women,Teetotal,26.3%
+2013,All 16+,Women,Teetotal,24.6%
+2014,All 16+,Women,Teetotal,24.2%
+2015,All 16+,Women,Teetotal,25.0%
+2016,All 16+,Women,Teetotal,24.4%
+2005,16 to 24,All persons,Teetotal,19.0%
+2006,16 to 24,All persons,Teetotal,20.8%
+2007,16 to 24,All persons,Teetotal,21.0%
+2008,16 to 24,All persons,Teetotal,20.8%
+2009,16 to 24,All persons,Teetotal,23.1%
+2010,16 to 24,All persons,Teetotal,27.0%
+2011,16 to 24,All persons,Teetotal,22.6%
+2012,16 to 24,All persons,Teetotal,24.0%
+2013,16 to 24,All persons,Teetotal,27.1%
+2014,16 to 24,All persons,Teetotal,24.7%
+2015,16 to 24,All persons,Teetotal,26.5%
+2016,16 to 24,All persons,Teetotal,26.8%
+2005,25 to 44,All persons,Teetotal,15.5%
+2006,25 to 44,All persons,Teetotal,15.3%
+2007,25 to 44,All persons,Teetotal,15.4%
+2008,25 to 44,All persons,Teetotal,16.5%
+2009,25 to 44,All persons,Teetotal,17.4%
+2010,25 to 44,All persons,Teetotal,18.5%
+2011,25 to 44,All persons,Teetotal,18.2%
+2012,25 to 44,All persons,Teetotal,21.4%
+2013,25 to 44,All persons,Teetotal,20.1%
+2014,25 to 44,All persons,Teetotal,22.2%
+2015,25 to 44,All persons,Teetotal,21.7%
+2016,25 to 44,All persons,Teetotal,20.1%
+2005,45 to 64,All persons,Teetotal,15.5%
+2006,45 to 64,All persons,Teetotal,15.9%
+2007,45 to 64,All persons,Teetotal,17.0%
+2008,45 to 64,All persons,Teetotal,17.0%
+2009,45 to 64,All persons,Teetotal,18.1%
+2010,45 to 64,All persons,Teetotal,16.9%
+2011,45 to 64,All persons,Teetotal,16.2%
+2012,45 to 64,All persons,Teetotal,18.8%
+2013,45 to 64,All persons,Teetotal,16.7%
+2014,45 to 64,All persons,Teetotal,14.3%
+2015,45 to 64,All persons,Teetotal,17.2%
+2016,45 to 64,All persons,Teetotal,16.3%
+2005,65+,All persons,Teetotal,29.4%
+2006,65+,All persons,Teetotal,27.4%
+2007,65+,All persons,Teetotal,27.4%
+2008,65+,All persons,Teetotal,29.8%
+2009,65+,All persons,Teetotal,29.8%
+2010,65+,All persons,Teetotal,29.5%
+2011,65+,All persons,Teetotal,30.3%
+2012,65+,All persons,Teetotal,28.9%
+2013,65+,All persons,Teetotal,26.6%
+2014,65+,All persons,Teetotal,25.5%
+2015,65+,All persons,Teetotal,24.4%
+2016,65+,All persons,Teetotal,25.1%
+2005,All 16+,All persons,Teetotal,18.8%
+2006,All 16+,All persons,Teetotal,18.7%
+2007,All 16+,All persons,Teetotal,19.1%
+2008,All 16+,All persons,Teetotal,20.0%
+2009,All 16+,All persons,Teetotal,21.0%
+2010,All 16+,All persons,Teetotal,21.4%
+2011,All 16+,All persons,Teetotal,20.7%
+2012,All 16+,All persons,Teetotal,22.5%
+2013,All 16+,All persons,Teetotal,21.3%
+2014,All 16+,All persons,Teetotal,20.8%
+2015,All 16+,All persons,Teetotal,21.5%
+2016,All 16+,All persons,Teetotal,20.9%

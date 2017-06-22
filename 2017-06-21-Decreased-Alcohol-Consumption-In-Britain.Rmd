@@ -1,20 +1,24 @@
 ---
-title: "Decreased Alcohol Consumption in Britain since 2005"
+title: "Decreased Alcohol Consumption in Britain"
 author: "Ahmed Tadde"
 date: "June 21, 2017"
-output: html_document
+output:
+   html_document:
+      self_contained: false
+      keep_md: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Introduction
+A survey conducted by the Office for National Statistics in Britain reveals adult drinking habits. The collected data contains information on the proporation of respondents who drank in the last week, or drank on 5 or more days in the last week, or practice [teetolism](https://en.wikipedia.org/wiki/Teetotalism>). The (simplfied version?) data can be downloaded [here](https://onedrive.live.com/view.aspx?resid=43EBDBC5D5265516!11641&ithint=file%2cxlsx&app=Excel&authkey=!AIN6rnJ4jqWf7Kk).
+The following sections consist of some light data cleaning/standarization and few visualizations on the trends of drinking habits among people of different ages and gender.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Libraries & Functions
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
+### Libraries
 ```{r}
 ##=====  Loading Libraries for Processing
 # load pacman first; then from pacman, use p_load to load other libraries
@@ -29,10 +33,8 @@ p_load(dplyr)
 p_load(stringi)
 ```
 
-## Something
-
-
-```{r , echo=FALSE}
+### Functions
+```{r}
 ##===== Functions for Data Wrangling
 
 ReformatYear <- function(values){
@@ -170,9 +172,10 @@ MakeLinePlot <- function(df, age.range, question, counter){
   #returns a series plot: ProportionChange vs Year
   
   table <- df[AgeRange %in% age.range & Question %in% question]
+  
   use.font <- list(
     family = "Courier New, monospace",
-    size = 15,
+    size = 12,
     color = "black"
   )
   
@@ -197,6 +200,8 @@ MakeLinePlot <- function(df, age.range, question, counter){
   if (counter != 3){
     
     table %>% plot_ly(
+      height = 600,
+      width = 800,
       x = ~Year,
       y = ~ProportionChange,
       type = "scatter",
@@ -218,10 +223,12 @@ MakeLinePlot <- function(df, age.range, question, counter){
         titlefont = use.font , 
         xaxis = ax, 
         yaxis = ay,
-        autosize = T
+        autosize = F
       )
   }else{
     table %>% plot_ly(
+      height = 600,
+      width = 800,
       x = ~Year,
       y = ~ProportionChange,
       type = "scatter",
@@ -239,12 +246,11 @@ MakeLinePlot <- function(df, age.range, question, counter){
       )
     )%>%
       layout(
-        title = age.range, 
+        title = paste0('AGE RANGE: ', age.range), 
         titlefont = use.font , 
         xaxis = ax, 
         yaxis = ay,
-        autosize = T,
-        legend = list(orientation = 'h')
+        autosize = F
       )
   }
   
@@ -276,16 +282,24 @@ FetchLinePlots <- function(df){
 
 
 
+## Data Cleaning
 
-```{r , echo=TRUE}
+### Loading & Glimpse
+```{r}
 data <- fread('data.csv')
+
 glimpse(data)
+unique(data$Year)
+table(data$`Age Range`)
+table(data$Gender)
+table(data$Question)
 
 
 ```
 
 
-```{r, echo=FALSE, results= 'hide'}
+### Cleaning 
+```{r, echo=TRUE, results= 'hide'}
 ####===== Reformating columns
 data[, Year:= ReformatYear(Year)]
 data[, Gender := ReformatGender(Gender)]
@@ -303,11 +317,88 @@ data[, ProportionChange := round(c(0,diff(Proportion)),2), by = c("Question", "A
 
 
 
+## Visualizations
 
-```{r, echo=FALSE}
+### Overall Trend
+
+According to data, compared to 2005, Britons are drinking less in 2016. In contrast, the number of teetotalers has increased.
+```{r}
 
 ####===== Bar Plots By Question showing proportion difference for 2005 & 2016
 MakeBarPlot(data)
 
 
 ```
+
+
+
+
+
+### Changes by Categories
+
+The trend lines below show the changes in the proportion of people consuming alcohol since 2005
+```{r}
+
+####===== Make Line Plots for Proportion Changes
+line.plots <- FetchLinePlots(data)
+
+```
+
+
+
+```{r, echo=FALSE}
+plotly::subplot(
+  line.plots$`16 to 24`,
+  nrows = 3,
+  shareX = TRUE, shareY = TRUE
+)
+
+```
+
+
+```{r, echo=FALSE}
+plotly::subplot(
+  line.plots$`25 to 44`,
+  nrows = 3,
+  shareX = TRUE, shareY = TRUE
+)%>% layout(showlegend =  FALSE)
+
+```
+
+
+```{r, echo=FALSE}
+plotly::subplot(
+  line.plots$`45 to 64`,
+  nrows = 3,
+  shareX = TRUE, shareY = TRUE
+)%>% layout(showlegend =  FALSE)
+
+```
+
+
+```{r, echo=FALSE}
+plotly::subplot(
+  line.plots$`65+`,
+  nrows = 3,
+  shareX = TRUE, shareY = TRUE
+) %>% layout(showlegend =  FALSE)
+
+```
+
+
+
+```{r, echo=FALSE}
+plotly::subplot(
+  line.plots$`16+`,
+  nrows = 3,
+  shareX = TRUE, shareY = TRUE
+)%>% layout(showlegend =  FALSE)
+
+```
+
+# Final Thoughts
+What are possible reasons for the observed decreased in alcohol consumption? Are Britons becoming more
+health contious? If that is the case, what other habits are on the decline? Would data from Germany and accross Europe reveal an overall trend of decreased alcohol consumption? 
+
+
+
